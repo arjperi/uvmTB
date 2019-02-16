@@ -1,0 +1,9 @@
+import uvm_pkg::*;
+`include "verif/sequence_item.svh"
+`include "verif/alu_driver.svh"
+`include "verif/alu_monitor.svh"
+`include "verif/alu_scoreboard.svh"
+`include "verif/alu_agent.svh"
+`include "verif/alu_env.svh"
+`include "verif/alu_seq.svh"
+`include "verif/alu_test.svh
